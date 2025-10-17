@@ -14,6 +14,6 @@
 
 ### Demo Screeshots
 
-![Footcap Desktop Demo](./readme-images/Screenshot 2025-10-16 000958.png "Desktop Demo")
+![Footcap Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 
