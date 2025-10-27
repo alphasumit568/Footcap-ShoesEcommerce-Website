@@ -18,3 +18,6 @@ This project demonstrates product display, add-to-cart functionality, and a simp
 ├── script.js
 └── README.md
 
+### Demo Screeshots
+
+![Footcap Desktop Demo](./readme-images/desktop.png "Desktop Demo")
